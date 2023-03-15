@@ -1,0 +1,11 @@
+{
+  "src": "https://github.com/blokhost/blok-host-web",
+  "dst": "AwD67HNRFVgb9Bxn7Q5bQUfPESAhvs5inNnG1JEwcYkG",
+  "site": "5434a41c466954b07525f7d42bbdae58",
+  "dst_provider": "shdw",
+  "build": {
+	"build_path": "./test",
+	"output": "./test/dist",
+	"command": "yarn && yarn build"
+  }
+}
